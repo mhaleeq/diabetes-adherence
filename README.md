@@ -6,10 +6,9 @@ This project builds a machine learning model to **predict which patients are lik
 
 ---
 
-## 📊 Dataset
-- **Source**: [Insert dataset link — e.g., Kaggle or WHO survey data]  
-- **Features**: demographic factors, lifestyle habits, medication patterns, and adherence label.  
-- **Size**: [X patients, Y features].  
+**Dataset**: [Diabetes Adherence Data — Mendeley (CC0 1.0)](https://data.mendeley.com/datasets/zkp7sbbx64/2)  
+
+The dataset is provided in `/data/Diabetes_Adherence_Data.csv`.
 
 ---
 
